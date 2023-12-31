@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>John Vincent </title>
+</head>
+
+<body>
+<img class="”responsive/fluid”" src="Downloads/langga02.jpeg" alt="ikaw at ako" />
+	<script>
+//javascript alert box
+alert("Cheers to our 1st New Year together!");
+alert("Just wanted to appreciate you.");
+alert("You are my biggest plot twist this year! The unexpected person who came in my life. And you bring the best out of me, so i like me better this year because I'm with you");
+alert("thank you for everything, langga! sa lahat ng effort mo just to make me feel loved and valued. biyaya ka sakin");
+alert("stay ka lang sakin ha? tiisin mo muna kamalditahan ko.");
+alert("mahal na mahal kita, langga! I'm very lucky to have you, my very poging baby! (⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠)");
+alert("laban lang! andito lang ako para sayo! proud of you always! (⁠☆⁠▽⁠☆⁠)");
+	</script>
+<h1> let's welcome 2024 together! mwaaaa! </h1>
+<img class="”responsive/fluid”" src="Downloads/Langga01.jpeg" alt="alternative text" />
+	
+</body>
+</html>
